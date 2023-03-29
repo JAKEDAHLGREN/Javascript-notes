@@ -1,1 +1,1 @@
-# Bravo-notes
+# JavaScript-notes
